@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-style: italic;
+}
+h1,li,ul{
+    display: inline;
+
+}
+
+ul{
+    margin-left:60%;
+}
+li:hover{
+    color:yellowgreen;
+    cursor: pointer;
+
+}
+
+input{
+    width: 50%;
+    height: 40px;
+    margin: 30px;
+    font-size: medium;
+}
+.one{border-color: green;
+    border-width:3px;
+    border-style: solid;
+    display: inline-block;
+    padding:3px;
+    margin-left:100px;
+}
+.two{
+    border-color: green;
+    border-width:3px;
+    border-style: solid;
+    display: inline-block;
+    padding:3px;
+    margin-left:30px;
+}
+.three{
+    border-color: green;
+    border-width:3px;
+    border-style: solid;
+    display: inline-block;
+    padding:3px;
+    margin-left:30px;
+}
+.four{
+    border-color: green;
+    border-width:3px;
+    border-style: solid;
+    display: inline-block;
+    margin-left:30px;
+}
+p:hover{
+    background-color: green;
+    color: white;
+    cursor:pointer;
+}
+.A{ display:inline-block;
+    margin-left: 10PX;
+}
+.A:hover{
+    background-color: lightgreen;
+    color:black;
+}
+.B{ display:inline-block;
+    margin-left:100PX;
+}
+.B:hover{
+    background-color: lightgreen;
+    color:black;
+}
+.box1{
+    border-color: green;
+    border-width:3px;
+    border-style: solid;
+    display: inline-block;
+    padding:3px;
+    margin-left:100px;
+} 
+.box2
+{
+    border-color: green;
+border-width:3px;
+border-style: solid;
+display: inline-block;
+margin-left:30px;
+ }
+.box3
+{
+    border-style: solid;
+display: inline-block;
+margin-left:30px;
+ border-color: green;
+border-width:3px;
+}
+.box4
+{
+    border-style: solid;
+display: inline-block;
+margin-left:30px; 
+border-color: green;
+border-width:3px;
+}
+.box5
+{
+    border-style: solid;
+display: inline-block;
+margin-left:30px; 
+border-color: green;
+border-width:3px;}
+.box6
+{
+    border-style: solid;
+display: inline-block;
+margin-left:200px; 
+margin-top: 40px;
+border-color: green;
+border-width:3px;
+}
+.box7
+{
+border-style: solid;
+display: inline-block;
+margin-left:180px; 
+margin-top: 50px;
+border-color: green;
+border-width:3px;
+}
+.box8
+{
+
+border-style: solid;
+display: inline-block;
+margin-left:150px; 
+margin-top: 50px;
+border-color: green;
+border-width:3px;
+}
+.pic:hover{
+    
+    color: black;
+}
+.contactus{
+    cursor: pointer;
+}
+.i{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+.f{
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+}
+.y{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.l{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+
